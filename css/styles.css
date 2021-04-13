@@ -72,8 +72,10 @@ a{
   color:#11999E;
   margin:10px 20px;
   text-decoration:none;
+}
 
-
+a:hover{
+color:#EAF6F6;
 }
 
 .profile{
